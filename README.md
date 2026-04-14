@@ -1,10 +1,10 @@
-# 🚀 Getting Started Workshop: [Project Name]
+# Getting Started Workshop: [Project Name]
 
 A hands-on, 60–90 minute workshop to help developers get up and running with **[Project Name]** and build their first real application.
 
 ---
 
-## 🌍 Open by Design (Public Domain)
+## Open by Design (Public Domain)
 
 This workshop is released under **CC0 1.0 (Public Domain Dedication)**.
 
@@ -21,7 +21,7 @@ That means:
 
 ---
 
-## 🎯 What This Workshop Does
+## What This Workshop Does
 
 By the end of this workshop, participants will:
 
@@ -32,7 +32,7 @@ By the end of this workshop, participants will:
 
 ---
 
-## 👥 Who This Is For
+## Who This Is For
 
 - Developers new to [Project Name]
 - AI / backend / full-stack engineers exploring new tools
@@ -41,7 +41,7 @@ By the end of this workshop, participants will:
 
 ---
 
-## 🧱 Workshop Structure
+## Workshop Structure
 
 | Time | Section |
 |------|--------|
@@ -53,7 +53,7 @@ By the end of this workshop, participants will:
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone the repo
