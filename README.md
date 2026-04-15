@@ -53,13 +53,24 @@ By the end of this workshop, participants will:
 
 ---
 
-## Quick Start
+https://openclaw.ai
+
+## Prerequisites
 
 - **Node.js** 18+ and npm
 - **Git** for cloning the repository
 - **API Keys** (required for agents):
   - Anthropic API key (`ANTHROPIC_API_KEY`) for Claude models
   - OpenAI API key (`OPENAI_API_KEY`) for GPT models
+    
+## Quick Start
+
+1. Works everywhere. Installs everything. You're welcome. 🦞
+
+curl -fsSL https://openclaw.ai/install.sh | bash
+
+
+
  
   - 
 ```bash
