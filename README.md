@@ -55,6 +55,13 @@ By the end of this workshop, participants will:
 
 ## Quick Start
 
+- **Node.js** 18+ and npm
+- **Git** for cloning the repository
+- **API Keys** (required for agents):
+  - Anthropic API key (`ANTHROPIC_API_KEY`) for Claude models
+  - OpenAI API key (`OPENAI_API_KEY`) for GPT models
+ 
+  - 
 ```bash
 # 1. Clone the repo
 git clone https://github.com/YOUR_ORG/YOUR_REPO.git
